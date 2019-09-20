@@ -1,6 +1,6 @@
 ### Convolutional Nerual Network for Sentence Classification
 
-论文链接：
+论文链接：https://www.aclweb.org/anthology/D14-1181
 
 
 
